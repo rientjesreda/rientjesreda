@@ -44,7 +44,7 @@ Een REST API gemaakt in **PHP** met **MySQL**, inclusief JWT-authenticatie en JS
 ## 📫 Contact
 
 📧 **E-mail:** [redamargai6@gmail.com](mailto:redamargai6@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rientjesreda](https://linkedin.com/in/rientjesreda) *(pas aan als je een echte link hebt)*  
+🔗 **LinkedIn:** [linkedin.com/in/rientjesreda](https://linkedin.com/in/RedaMargai) *(pas aan als je een echte link hebt)*  
 🌐 **Portfolio:** [rientjesreda.github.io](https://rientjesreda.github.io) *(kan je maken via GitHub Pages)*
 
 ---
