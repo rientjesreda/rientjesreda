@@ -23,6 +23,8 @@ Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik fra
 
 ## 🚀 Projecten
 
+> 💡 Hier kun je later je projecten toevoegen. Bijvoorbeeld:
+
 ### 🧩 [Portfolio Website](https://github.com/rientjesreda/portfolio-website)
 Persoonlijke portfolio gebouwd met **HTML/CSS**, **JavaScript** en **Bootstrap**, gehost via GitHub Pages.
 
@@ -36,7 +38,7 @@ Een REST API gemaakt in **PHP** met **MySQL**, inclusief JWT-authenticatie en JS
 
 ## 📊 GitHub Statistieken
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rientjesreda&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rientjesreda&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rientjesreda&layout=compact&theme=radical)
 
 ---
@@ -44,9 +46,9 @@ Een REST API gemaakt in **PHP** met **MySQL**, inclusief JWT-authenticatie en JS
 ## 📫 Contact
 
 📧 **E-mail:** [redamargai6@gmail.com](mailto:redamargai6@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/RedaMargai](https://linkedin.com/in/RedaMargai) *(pas aan als je een echte link hebt)*  
+🔗 **LinkedIn:** [linkedin.com/in/reda-margai-32a33a397](https://www.linkedin.com/in/reda-margai-32a33a397/)  
 🌐 **Portfolio:** [rientjesreda.github.io](https://rientjesreda.github.io) *(kan je maken via GitHub Pages)*
 
 ---
 
-> 💬 *“Code is like humor — when you have to explain it, it’s bad.”*  
+> 💬 *“Code is like humor — when you have to explain it, it’s bad.”*
