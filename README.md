@@ -21,18 +21,7 @@ Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik fra
 
 ---
 
-## 🚀 Projecten
 
-> 💡 Hier kun je later je projecten toevoegen. Bijvoorbeeld:
-
-### 🧩 [Portfolio Website](https://github.com/rientjesreda/portfolio-website)
-Persoonlijke portfolio gebouwd met **HTML/CSS**, **JavaScript** en **Bootstrap**, gehost via GitHub Pages.
-
-### 💬 [Laravel Blog](https://github.com/rientjesreda/laravel-blog)
-Een eenvoudig blogsysteem met **Laravel**, inclusief CRUD-functionaliteit, login en databasekoppeling.
-
-### ⚙️ [PHP REST API](https://github.com/rientjesreda/php-rest-api)
-Een REST API gemaakt in **PHP** met **MySQL**, inclusief JWT-authenticatie en JSON-output.
 
 ---
 
