@@ -2,7 +2,7 @@
 ### 💻 Student Software Development | MBO Utrecht
 
 👋 Hallo! Ik ben **Reda**, student **Software Development** aan **MBO Utrecht**, met een passie voor **webontwikkeling** en **automatisering**.  
-Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik frameworks zoals **Laravel**, **React** en **Bootstrap**.  
+Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik frameworks zoals **Vue.js**, **React** en **Laravel**.  
 🚀 Op dit moment ben ik op zoek naar een **stageplek in softwareontwikkeling** om mijn kennis verder uit te breiden en praktijkervaring op te doen.
 
 ---
@@ -36,7 +36,7 @@ Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik fra
 
 📧 **E-mail:** [redamargai6@gmail.com](mailto:redamargai6@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/reda-margai-32a33a397](https://www.linkedin.com/in/reda-margai-32a33a397/)  
-🌐 **Portfolio:** [rientjesreda.github.io](https://rientjesreda.github.io) *(kan je maken via GitHub Pages)*
+🌐 **Portfolio:** [rientjesreda.github.io](https://rientjesreda.github.io)
 
 ---
 
