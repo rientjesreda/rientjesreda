@@ -36,7 +36,7 @@ Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik fra
 
 📧 **E-mail:** [redamargai6@gmail.com](mailto:redamargai6@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/reda-margai-32a33a397](https://www.linkedin.com/in/reda-margai-32a33a397/)  
-🌐 **Portfolio:** [rientjesreda.github.io](https://rientjesreda.github.io)
+
 
 ---
 
