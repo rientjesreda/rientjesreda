@@ -23,12 +23,6 @@ Ik werk voornamelijk met **PHP**, **HTML/CSS** en **JavaScript**, en gebruik fra
 
 
 
----
-
-## 📊 GitHub Statistieken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rientjesreda&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rientjesreda&layout=compact&theme=radical)
 
 ---
 
